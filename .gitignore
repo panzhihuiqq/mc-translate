@@ -1,0 +1,18 @@
+# 忽略运行时生成的文件（含个人路径与聊天记录）
+config.json
+cache.json
+*.log
+.backup-gbk/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
